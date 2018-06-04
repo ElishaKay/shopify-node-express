@@ -2,7 +2,7 @@
 
 First thing I did to begin this project is to download the Shopify POS App for In-Store Purchases - available on Android. Through the UI, you can easily create a username and password, add products, and even make a purchase. Here's what a purchase looks like via the mobile app:
 
-<img src="purchase-via-mobile.png">
+<img src="purchase-via-mobile.png" height="400px">
 
 
 Next, use the same credentials you used on your mobile in order to login to your app via your web browser. Here's what the same store looks like in your web browser:
