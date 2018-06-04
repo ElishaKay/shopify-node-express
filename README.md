@@ -2,12 +2,12 @@
 
 First thing I did to begin this project is to download the Shopify POS App for In-Store Purchases - available on Android. Through the UI, you can easily create a username and password, add products, and even make a purchase. Here's what a purchase looks like via the mobile app:
 
-<img src="purchase-via-mobile.png" height="150px">
+<img src="purchase-via-mobile.png">
 
 
 Next, use the same credentials you used on your mobile in order to login to your app via your web browser. Here's what the same store looks like in your web browser:
 
-<img src="shopify-preliminary-create-store.JPG" height="300px">
+<img src="shopify-preliminary-create-store.JPG">
 
 
 Once that is done there are several important routes and ideas to take into account regarding Shopify's REST Admin API:
